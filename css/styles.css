@@ -1,0 +1,15 @@
+.box1{
+    border-radius: 50px 35px 0px 35px;
+}
+
+.box2{
+    border-radius: 35px 50px 35px 0px;
+}
+
+.box3{
+    border-radius: 35px 0px 35px 50px;
+}
+
+.box4{
+    border-radius: 0px 35px 50px 35px;
+}
